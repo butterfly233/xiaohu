@@ -1,0 +1,2 @@
+# xiaohu
+my first factory
